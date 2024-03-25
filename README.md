@@ -1,4 +1,4 @@
-# E-Scool Android App
+# E-School Android App
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Features
 
-#### 🙋‍♀️ User Fretures
+#### 🙋‍♀️ User Features
 - Colorful and attractive design.
 - Grades 6 to 11 categorized for easy selection.
 - Subjects organized under each grade for quick access.
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - Feature For update password 
 - A separate application specifically designed for maintenance processes.
 - Handles authentication, database management, and CRUD operations accessible only to admins.
-- Aallowing for future updates and the addition of new educational content.
+- Allowing for future updates and the addition of new educational content.
   
 ---
 
